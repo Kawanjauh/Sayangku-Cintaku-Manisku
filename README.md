@@ -2,6 +2,7 @@
 This page is just for you, sayang. A little reminder of how much you mean to me, even from far away.
 Ready sudah kamu sayangku cintaku manisku?
 ## What’s Inside?
+<img src="gambar" alt="gambar" width="300">
 
 - Sepatah dua kata
 - Rahsia
